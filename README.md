@@ -1,0 +1,1 @@
+Developed a full-stack restaurant management system using Django. The platform allows users to view the restaurant's menu, book tables, submit feedback, and manage authentication with secure user login and registration functionality. Dynamic data rendering is handled through Django models and templates to create an interactive and user-friendly experience.
